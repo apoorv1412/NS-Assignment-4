@@ -3,6 +3,8 @@ import HMAC
 import Elgamal
 from random import randint as rint
 
+# FILE NOT USEFUL, MADE FOR TESTING
+
 port = 5000
 
 q = Elgamal.q
